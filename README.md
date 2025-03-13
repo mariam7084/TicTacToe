@@ -1,3 +1,9 @@
+after an eternity long,created my first react app.
+still needs to be deployed correctly on github pages;leaving that to some another day.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
